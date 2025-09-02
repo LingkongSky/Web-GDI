@@ -1,0 +1,22 @@
+{
+  "name": "web-gdi",
+  "version": "1.0.0",
+  "description": "A node package for simulating the Windows GDI",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "LingkongSky",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^24.3.0",
+    "typescript": "^5.9.2"
+  },
+  "dependencies": {
+    "canvas": "^3.2.0",
+    "uuid": "^11.1.0"
+  }
+}

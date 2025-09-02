@@ -1,0 +1,6 @@
+export enum StretchMode {
+    STRETCH_ANDSCANS = 1,
+    STRETCH_ORSCANS = 2,
+    STRETCH_DELETESCANS = 3,
+    STRETCH_HALFTONE = 4,
+}
