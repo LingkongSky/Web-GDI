@@ -10,7 +10,7 @@
   },
   "keywords": [],
   "author": "LingkongSky",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@types/node": "^24.3.0",
     "typescript": "^5.9.2"
